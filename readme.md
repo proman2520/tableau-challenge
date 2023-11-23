@@ -8,6 +8,8 @@ In the first dashboard, one can see a map that illustrates the popularity of the
 
 In the second dashboard, one can see the rides dissected by time. There is a hourly cycle across the month of August 2013 that shows the daily rise and fall in bike rides, the aggregated trips by hour, and the trip durations, which were binned by 100 seconds. The CitiBikes were popular around 8AM, when many are commuting to work, but then peaked between 5PM and 6PM, when people are desperate to get home after leaving work. The rideshare vehicles were least popular at 4AM, which is intuitive. Regarding the trip duration, the most common duration was around 400 seconds (6.67 minutes). The graph is normally distributed around the 400 second mark. From the month graph of the hourly cycle, we can see that the pattern is typical and predictable.
 
+Here is my Tableau Public assignment: https://public.tableau.com/app/profile/andrew.prozorovsky/viz/tableau-challenge_16997600136400/CitiBikesStoryLinks to an external site. 
+
 Satisfying the assignment requirements in Tableau was at times frustrating and difficult, but it is understood why Tableau is a powerful tool for visualization. The dataset had serious limitations given the incongruent metrics across time, but with enough creative vision, interesting conclusions from the data can be illustrated.
 
 Thank you for the time and consideration grading the assignment. I might add that this repository was fuller, with the three datasets and a jupyter notebook, but GitHub kept timing out while I tried to commit. I suspected it might be from the large size of the files and had to remove the .csv files that I used.
