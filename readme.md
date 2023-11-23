@@ -10,6 +10,6 @@ In the second dashboard, one can see the rides dissected by time. There is a hou
 
 Satisfying the assignment requirements in Tableau was at times frustrating and difficult, but it is understood why Tableau is a powerful tool for visualization. The dataset had serious limitations given the incongruent metrics across time, but with enough creative vision, interesting conclusions from the data can be illustrated.
 
-Thank you for the time and consideration grading the assignment.
+Thank you for the time and consideration grading the assignment. I might add that this repository was more full, with the three datasets and a jupyter notebook, but GitHub kept timing out while I tried to commit. I suspected it might be from the large size of the files and had to remove the .csv files that I used.
 
 ~Andrew
